@@ -8,6 +8,10 @@ Computer Engineering student at the Instituto Tecnológico de Costa Rica with ex
 
 ## Highlighted Projects
 
+- **AWS Deployment** – Infrastructure-as-Code deployment of a containerized application on AWS ECS Fargate using Terraform, with GitHub Actions CI/CD (OIDC), automated Docker builds, ECR integration, and secure IAM orchestration.
+
+🔗 https://github.com/DArceCampos/AWS-Deploy
+
 - **Semantify Book Reviews** – Kubernetes-based semantic search platform leveraging NLP embeddings with Hugging Face, vector search in Elasticsearch, and hybrid persistence with MariaDB. Implemented a producer–consumer ingestion pipeline using RabbitMQ, caching with Memcached, and a React-based UI supporting vector and full-text search. Fully containerized and automated with Helm on Kubernetes, including end-to-end observability with Prometheus and Grafana.
 
 🔗 https://github.com/carayac/2025-02-IC4302/tree/proyecto-01
