@@ -8,7 +8,7 @@ Computer Engineering student at the Instituto Tecnológico de Costa Rica with ex
 
 ## Highlighted Projects
 
-- **AWS Deployment** – Infrastructure-as-Code deployment of a containerized application on AWS ECS Fargate using Terraform, with GitHub Actions CI/CD (OIDC), automated Docker builds, ECR integration, and secure IAM orchestration.
+- **AWS Deployment** Cloud-native container deployment on AWS using Terraform for Infrastructure-as-Code provisioning of ECS Fargate, ECR, IAM, and networking resources. Implemented secure CI/CD with GitHub Actions leveraging OIDC federation for keyless authentication, enabling automated Docker build, registry push, and rolling service updates. Designed with IAM least-privilege access and fully automated infrastructure and application delivery workflow.
 
 🔗 https://github.com/DArceCampos/AWS-Deploy
 
